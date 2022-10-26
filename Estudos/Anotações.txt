@@ -1,0 +1,9 @@
+O Git Bash é um terminal extendido para otimizar a utilização do Git.
+
+commit -m é utilizado para efetuar o commit diretamente do termnal.
+
+git status verifica o status das atualizações dentro do repositório.
+
+para atualizar o conteúdo online basta adicionar o git add . 
+
+
